@@ -24,7 +24,7 @@ Step 1 : a=((1*6/3)+e%f)-g
                   
 Step 2 :
   Step 2.1 : In (2+e%f), % operator has highest order and hence it becomes //e=4 , f=2//
-     	             ie :(2+4%2)//since 4%2==0
+    ie :(2+4%2)//since 4%2==0
   Step 2.2 : 2+0
   a=(2+0)-g
      	         
@@ -32,7 +32,7 @@ Step 3 :
   In the above expression a=(2+0)-g ,(2+0) is executed first by associativity2-g   //g=1//
   Step 3.1 : 2-1
   Step 3.2 : 1
-		Hence the final value stored in a=1  
+Hence the final value stored in a=1  
             =============================================================================================================
 					  
 	Example No 2 :
